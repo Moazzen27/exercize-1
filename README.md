@@ -1,1 +1,1 @@
-# exercize-1
+# exercize
